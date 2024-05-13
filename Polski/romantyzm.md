@@ -61,3 +61,45 @@ Zbudowany na zasadzie antynomii (kontrastowe zestawienie sprzecznych wartości n
 
 ## Sonety Krymskie
 Pisane podczas zesłania do Rosji (drugi okres życia Adasia, czyli okres rosyjski). Pisane językiem ezopowym. 
+### Stepy Akermańskie (Sonet Włoski)
+- Opis pejzażu krymskiego (pierwsza część opisowa, druga refleksyjna)
+- Pisane skomplikowanym językiem
+- Orientalizm (zafascynowanie kulturą wschodu) ||Gdyby było o to pytanie kiedyś: barbaryzmy, czyli zaczerpnięte z wschodniego języka nazwy własne||
+
+#### Kreacja podmiotu lirycznego
+- Podróżnik
+- Tułacz
+- Zesłaniec
+- Motyw Homo Viator
+- Patriota
+- Człowiek wewnętrznie rozdarty o skrajnych emocjach (towarzyszy mu zachwyt, ale z drugiej strony towarzyszy mu tęsknota)
+- posługuje się maską orientalną dla ilustracji stanu swoich uczuć
+- pamięć o ojczyźnie (z jednej strony przekleństwo a z drugiej dar)
+
+#### Kreacja bohatera lirycznego (Przyroda)
+- Orientalna
+- Tajemnicza
+- Fascynująca
+- Niezwykła
+- Wyraża uczucia podmiotu lirycznego (psychizacja przyrody, monizm przyrodniczy)
+- Personifikacja przyrody
+- Mistyczna
+- Żywioł
+- Potęga
+- Odradzająca się
+- Skaralizacja przyrody
+
+### Dziady (II, III i fragmenty IV)
+Dziady to obrzęd pogański zabroniony przez kościół odbywający się w tajemnicy. Miał na celu pomóc duszy w jej cierpieniu. Sprowadzał się do wywoływania duchów zmarłych.
+#### Część II
+##### Jak romantycy pojmują "bycie" w pełni człowiekiem
+Człowiek musi być wrażliwy, nie może być obojętny i musi umieć odwzajemniać uczucia.
+
+### Część III (TODO)
+
+### Część IV
+Pustelnik jest Gustawem, który opowiada o nieszczęśliwej miłości. Pustelnik buntuje się przeciwko konwenansom poprzez swój gest samobójczy. Jest to dla niego pewnego rodzaju kara, bo musi on co roku, o tej samej porze przybywać na ziemie i popełniać samobójstwo
+- Idealizacja miłości
+- Obraz kobiety (aluzja do Maryli Wereszczakówny)
+- Kobieta anioł
+- Destrukcja
