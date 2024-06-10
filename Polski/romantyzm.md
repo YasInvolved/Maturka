@@ -95,7 +95,41 @@ Dziady to obrzęd pogański zabroniony przez kościół odbywający się w tajem
 ##### Jak romantycy pojmują "bycie" w pełni człowiekiem
 Człowiek musi być wrażliwy, nie może być obojętny i musi umieć odwzajemniać uczucia.
 
-### Część III (TODO)
+### Część III
+#### Filozofia Mesjanizmu
+Realizacja filizofii mesjanizmu jest w scenie widzenia księdza piotra. Piotra charakteryzuje postawa pokory dlatego zostaje mu ukazana przyszłość polski.
+Mesjanizm zakłada, że jest osoba, która poprowadzi świat do zbawienia przez swoje poświęcenie.
+Ma charakter kompensacyjny, czyli przypisuje polakom szczególną role. Cierpienie narodu polskiego ma głębszy sens i stanowi drogę prowadzącą do wolności.
+Filozofia mesjanizmu w dziadach miała na celu nadanie większego sensu cierpieniu narodu polskiego. 
+
+Postać o imieniu 44 jest symbolem Polski.
+
+##### Etapy cierpienia polski
+
+1. Polska jako naród zniewolony i cierpiący (Chrystus) i Rosja jako prześladowca (Herod)
+2. Wyrok Piłata (Francja symbolizuje Piłata)
+3. Chrystusowi zostaje założona korona cierniowa
+4. Ukrzyżowanie Chrystusa (Polski). Krzyż z trzema ramionami symbolizuje 3 zaborców. Żółnierze symbolizują oprawców, a cios ostateczny jest również symbolem Rosji
+5. Skonanie na krzyżu, śmierć Chrystusa (symbol upadku powstania listopadowego)
+6. Zmartwychwstanie (Nadaje nadzieje na ponowne powstanie Polski). Motyw białej szaty - czystość, niewinność, zmartwychwstanie
+
+**Mickiewicz głosi wyraźnie w swojej filozofii, żeby Polacy znosili cierpienie i upokorzenie bo to w końcu minie i przyjdzie zmartwychwstanie. W ten sposób tworzy optymistyczną wersję przyszłości.**
+
+#### Obraz polskiego społeczeństwa w dziadach
+
+##### Sceny zawierające --//--
+- Scena pierwsza (więzienna) - ukazuje młodzież wileńską, wśród której są przyjaciele mickiewicza. Znajdują się w klasztorze bazylianów przerobionym na więzienie. Padają tam nazwiska oskarżonych o spiskowanie przeciwko Rosji za sprawą senatora Nowosilcowa. 
+**Uwięzieni w klasztorze bazylianów:** Sobolewski (opowiada historie o więzniach), Wasilewski (skatowany do nieprzytomności), Janczewski (krzyczy jeszcze Polska nie zginęła)
+
+- Scena siódma (salon warszawski) - obraz społeczeństwa jest opisany symbolicznie. Jest podzielone na dwie grupy - Towarzystwo przy drzwiach i zdrajcy. Zdrajcy chwalą Nowosilcowa jako świetnego organizatora bali. 
+**Słowa Wysockiego kończąnce scenę 7.: Nasz naród jak lawa (symbolizują społeczeństwo podzielone), Zewnętrzna warstwa skorupa (symbol lojalistów), Wewnętrzna warstwa (symbol patriotów)**
+
+- Historia Rollisona - siedemnastoletni uczeń gimnazjum oskarżony o działalność antyrosyjską, zamknięty w więzieniu. Sprowokowany do samobójstwa. (powstała na bazie autentycznej historii)
+
+- Historia Cichowskiego - został uprowadzony i świat po nim zaginął. Został zamknięty w więzieniu i brutalnie przesłuchiwany. Upozorowano jego śmierć przez utopienie. Po latach wraca do domu po przejściu przemiany fizycznej i psychicznej. Jest przerażony i ma manię prześladowczą. 
+
+(TODO) 
+
 
 ### Część IV
 Pustelnik jest Gustawem, który opowiada o nieszczęśliwej miłości. Pustelnik buntuje się przeciwko konwenansom poprzez swój gest samobójczy. Jest to dla niego pewnego rodzaju kara, bo musi on co roku, o tej samej porze przybywać na ziemie i popełniać samobójstwo
