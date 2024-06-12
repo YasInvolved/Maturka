@@ -115,7 +115,7 @@ Postać o imieniu 44 jest symbolem Polski.
 
 **Mickiewicz głosi wyraźnie w swojej filozofii, żeby Polacy znosili cierpienie i upokorzenie bo to w końcu minie i przyjdzie zmartwychwstanie. W ten sposób tworzy optymistyczną wersję przyszłości.**
 
-#### Obraz polskiego społeczeństwa w dziadach
+#### Obraz polskiego społeczeństwa
 
 ##### Sceny zawierające --//--
 - Scena pierwsza (więzienna) - ukazuje młodzież wileńską, wśród której są przyjaciele mickiewicza. Znajdują się w klasztorze bazylianów przerobionym na więzienie. Padają tam nazwiska oskarżonych o spiskowanie przeciwko Rosji za sprawą senatora Nowosilcowa. 
@@ -128,7 +128,56 @@ Postać o imieniu 44 jest symbolem Polski.
 
 - Historia Cichowskiego - został uprowadzony i świat po nim zaginął. Został zamknięty w więzieniu i brutalnie przesłuchiwany. Upozorowano jego śmierć przez utopienie. Po latach wraca do domu po przejściu przemiany fizycznej i psychicznej. Jest przerażony i ma manię prześladowczą. 
 
-(TODO) 
+##### Wnioski
+- Polskie społeczeństwo jest podzielone
+- Ocena Mickiewicza jest wyrażona niedosłownie (język ezopowy)
+- Postawy patriotów są heroizowane i gloryfikowane
+- Krytyka postaw niegodnych - lojalistów i zdrajców narodu
+
+#### Obraz Rosji i rosyjskiego społeczeństwa (Ustęp)
+- Obraz władzy carskiej znajdziemy w postaci symbolicznej heroda (symbol carskiego despotyzmu)
+- Przedmowa w dziadach ukazuje sytuacje polityczną za panowania Aleksandra I
+- Ustęp przedstawia sytuacje polityczną w Rosji
+- Rosja jest ukazana jako niezwykle rozległa kraina z bardzo rozległym i niesprzyjającym człowiekowi krajobrazem
+- W dziadach można znaleźć opisy Petersburga i jego przedmieścia
+- Car zażyczył sobie wzniesienie Petersburga tylko i wyłącznie ze swoich pobudek
+- Car nie liczy się z ludzkim życiem
+- Despotyzm cara przejawia się w opisie wojska (defilada pokazuje, że żołnierze i prosty lud boją się cara)
+- Dwór cara jest pokazany jako pstrokaty i kolorowy jednocześnie, wszędzie obecny jest strach i brak zaufania
+- W ustępie Mickiewicz formuje zdanie, że car jest sprawcą zła a naród rosyjski jako ofiarę tej tyranii
+- Społeczeństwo rosyjskie jest tak samo podzielone jak polskie
+
+##### Opis pomnika Piotra Wielkiego - zestawienie na zasadzie kontrastu z pomnikiem Marka Aureliusza
+- Marek Aureliusz symbolizuje dbającego i łagodnego władcy
+- Piotr Wielki symbolizuje despotyzm, okrucieństwo, szaleństwo i nieobliczalność
+
+
+##### "Do przyjaciół Moskali" z Ustępu
+- w tym utworze Mickiewicz solidaryzuje się z rosyjskimi rewolucjonistami (Rylejew i Bestużew)
+
+#### Kreacja bohatera romantycznego - Konrad
+##### Prolog
+- Bohater przebywa w więzieniu i przeżywa niespokojny sen
+- Z romantycznego kochanka kobiety zmienia się w romantycznego kochanka ojczyzny (zmiana z Gustawa w Konrada)
+
+##### Pieśń wampiryczna (Scena 1.)
+- zapowiada pragnienie buntu
+- ilustruje negatywne uczucia Konrada
+
+##### Mała improwizacja (nadal Scena 1.)
+- wzbija się jako orzeł (symboliczny)
+- chce odczytać przyszłość Polski ale przeszkadza mu w tym kruk (symbol śmierci i tajemnicy lub szatana), który go pokonuje
+
+##### Wielka Improwizacja (Scena 2.)
+- Konrad jako samotny poeta
+- Wyalienowany (Konrad)
+- obdarzony talentem i przekonany o swojej wyższości
+- uczuciowy
+- boli go to, że jego poezji nie rozumie zwykły śmiertelnik
+- mówi, że jedynym odbiorcą jego poezji jest sam Bóg
+- żąda władzy od Boga i czuje się nieśmiertelny
+
+(TODO) Skończone na nieśmiertelności
 
 
 ### Część IV
